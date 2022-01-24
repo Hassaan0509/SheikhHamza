@@ -10,10 +10,10 @@
 <p align="center">
 <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://leetcode.com/SheikhHamza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Sheikh Hamza" height="30" width="40" /></a>
 <a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://twitter.com/SaadFar80645693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaadFareed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saad-fareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hamza-695b54229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SheikhHamza" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16696790/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
