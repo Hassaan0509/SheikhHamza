@@ -22,7 +22,7 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 
-[![Sheikh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
+[![Sheikh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SheikhHamza01&theme=xcode)](https://github.com/saadfareed)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
