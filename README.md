@@ -22,10 +22,10 @@
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
-  <a href="https://github.com/saadfareed"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadfareed&theme=dracula" />
+  <a href="https://github.com/SheikhHamza01"><span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameSheikhHamza01&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SheikhHamza01&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SheikhHamza01&theme=dracula" />
     </span></a>
 </p>
 
@@ -35,8 +35,8 @@
 <br/>
 <h2 align="center">🏆 GitHub Profile Trophy:</h2>
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=discord"/>
+<a href="https://github.com/SheikhHamza01">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=SheikhHamza01&theme=discord"/>
 </a>
 </p>
 <hr>
