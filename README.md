@@ -18,12 +18,12 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 
-[![Sheikh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SheikhHamza01&theme=xcode)](https://github.com/saadfareed)
+[![Sheikh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SheikhHamza01&theme=xcode)](https://github.com/SheikhHamza01)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
   <a href="https://github.com/SheikhHamza01"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameSheikhHamza01&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SheikhHamza01&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SheikhHamza01&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SheikhHamza01&theme=dracula" />
     </span></a>
