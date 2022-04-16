@@ -30,15 +30,9 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhHamza01&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
 <br/>
-<h2 align="center">🏆 GitHub Profile Trophy:</h2>
-<p align="center">
-<a href="https://github.com/SheikhHamza01">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=SheikhHamza01&theme=discord"/>
-</a>
-</p>
 <hr>
 <h2 align>Spotify Playing 🎧</h2>
     
