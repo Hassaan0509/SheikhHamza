@@ -3,12 +3,11 @@
     <h1> Hi there, I'm Sheikh Hamza👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/SheikhHamza01"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/SheikhHamza01"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learn%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
 <a href="https://leetcode.com/SheikhHamza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Sheikh Hamza" height="30" width="40" /></a>
 <a href="https://twitter.com/HamzaAt26032526" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SheikhHamza" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-hamza-695b54229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SheikhHamza" height="30" width="40" /></a>
